@@ -222,9 +222,11 @@ packages:
   webfeed:
     dependency: "direct main"
     description:
-      name: webfeed
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: itunes_namespace
+      resolved-ref: "67f38f898c5e5db02fea7b5acf2ec208c54c3673"
+      url: "git://github.com/magodo/webfeed.git"
+    source: git
     version: "0.4.2"
   xml:
     dependency: "direct main"

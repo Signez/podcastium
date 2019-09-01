@@ -11,7 +11,10 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
-  webfeed: ^0.4.2
+  webfeed:
+    git:
+      url: git://github.com/magodo/webfeed.git
+      ref: itunes_namespace
   http: ^0.12.0+2
   xml: ^3.5.0
   intl: ^0.15.8
