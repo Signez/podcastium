@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss">
+<channel>
+  <title>Tech Two</title> 
+  <itunes:author>Blueprint</itunes:author>
+  <itunes:owner><itunes:email>podcast@blueprint.pm</itunes:email></itunes:owner>
+  <itunes:category text="Technology"></itunes:category>  
+  <link>https://www.blueprint.pm/podcasts/tech-two/</link> 
+  <itunes:summary>Le podcast qui vous aide à tirer le meilleur de la technologie, au travail comme à la maison ! Un lundi sur deux, présenté par Yann Rieder et Franck Extanasié.</itunes:summary>
+    <description>Le podcast qui vous aide à tirer le meilleur de la technologie, au travail comme à la maison ! Un lundi sur deux, présenté par Yann Rieder et Franck Extanasié.</description>
+  <itunes:type>episodic</itunes:type>
+  <language>fr-fr</language> 
+  <lastBuildDate>Fri, 12 Jul 2019 10:32:00 +0200</lastBuildDate>
+  <copyright>Blueprint © 2017-2019. Tous droits réservés.</copyright> 
+  <image>
+	<url>https://shows.blueprint.pm/tech-two/TechTwo.jpg</url> 
+	<title>Tech Two</title> 
+	<link>https://www.blueprint.pm/podcasts/tech-two/</link> 
+  </image>
+	<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+	<itunes:explicit>no</itunes:explicit>
+	<item>
+	<title><![CDATA[Franck et son iPhone]]></title>
+		<link>https://www.blueprint.pm/tech-two-44-franck-et-son-iphone</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT44.mp3" type="audio/mpeg" />
+		<guid>https://shows.blueprint.pm/tech-two/TT44.mp3</guid>
+		<pubDate>Mon, 1 Jul 2019 09:00:00 +0200</pubDate>
+		<itunes:episode>44</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:04:57</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck vient... d'acheter son premier iPhone ! L'occasion rêvée pour voir le monde à travers ses yeux : que pense-t-il de son iPhone XR et d'iOS 12 ? Pourquoi l'utilise-t-il, et en est-il heureux ?]]></itunes:subtitle>
+		<description><![CDATA[Franck vient... d'acheter son premier iPhone ! L'occasion rêvée pour voir le monde à travers ses yeux : que pense-t-il de son iPhone XR et d'iOS 12 ? Pourquoi l'utilise-t-il, et en est-il heureux ?]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/06/iphone-xr-select-2019-family.jpeg" /><br /><p style="text-align: justify;">L'impensable est arrivé : Franck, soutien éternel à Windows Phone et utilisateur régulier d'Android depuis plusieurs années, vient... d'acheter<strong> son premier iPhone</strong> !</p><p style="text-align: justify;">L'occasion rêvée pour <strong>voir le monde à travers ses yeux</strong> : que pense-t-il de son iPhone XR et d'iOS 12 ? Pourquoi l'utilise-t-il, et en est-il heureux ?</p><p style="text-align: justify;">Les réponses sont dans ce dernier épisode de la saison.</p><p style="text-align: justify;">Bon été à toutes et tous, rendez-vous en septembre pour de nouvelles aventures !</p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Conférence podcast — pourquoi le flux RSS, état des lieux, avenir]]></title>
+		<link>https://www.blueprint.pm/tech-two-43-conference-podcast-pourquoi-le-flux-rss-etat-des-lieux-avenir</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT43.mp3" type="audio/mpeg" />
+		<guid>https://shows.blueprint.pm/tech-two/TT43.mp3</guid>
+		<pubDate>Mon, 17 Jun 2019 11:25:00 +0200</pubDate>
+		<itunes:episode>43</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:07:09</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Découvrez la conférence consacrée au podcast préparée par Franck et Yann pour la troisième édition du GG_Fest, le 11 mai 2019. Au programme : Pourquoi le média podcast est-il basé sur la technologie du flux RSS ? Qui sont les principaux acteurs du milieu du podcast, en France et ailleurs ? Quel est — à notre avis — l'avenir du podcast ?]]></itunes:subtitle>
+		<description><![CDATA[Découvrez la conférence consacrée au podcast préparée par Franck et Yann pour la troisième édition du GG_Fest, le 11 mai 2019. Au programme : Pourquoi le média podcast est-il basé sur la technologie du flux RSS ? Qui sont les principaux acteurs du milieu du podcast, en France et ailleurs ? Quel est — à notre avis — l'avenir du podcast ?]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/06/carre.jpg" /><br /><p style="text-align: justify;">Découvrez la <strong>conférence consacrée au podcast</strong> préparée par Franck et Yann — et présentée par Yann — pour la troisième édition du GG_Fest (Paris, le 11 mai 2019).</p><p style="text-align: justify;"><strong>Au programme : </strong></p><ul style="text-align: justify;"><li>Pourquoi le média podcast est-il basé sur la technologie du flux RSS ?</li><li>Et comment ça marche, expliqué simplement ?</li><li>Qui sont les principaux acteurs du milieu du podcast, en France et ailleurs ?</li><li>Quel est — à notre avis — l'avenir du podcast ?</li></ul><p style="text-align: justify;"><i>Conférence enregistrée le 11 mai 2019.</i></p><h3 style="text-align: justify;">Télécharger les slides</h3><p style="text-align: justify;"><a href="https://shows.blueprint.pm/tech-two/TT43.pdf">Il suffit de cliquer ici (<em>.pdf, 23,7 Mo</em>) !</a></p><h3 style="text-align: justify;"><strong>Remerciements</strong></h3><p style="text-align: justify;">Heddy, et l'association <a href="https://www.patreon.com/radiokawa">RadioGroupe</a> — également présente ce jour-là.</p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li style="text-align: justify;"><a href="https://podcastouvert.fr">PodcastOuvert.fr</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Gérer ses photos]]></title>
+		<link>https://www.blueprint.pm/tech-two-42-gerer-ses-photos</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT42.mp3" type="audio/mpeg" />
+		<guid>https://shows.blueprint.pm/tech-two/TT42.mp3</guid>
+		<pubDate>Mon, 3 Jun 2019 09:00:00 +0100</pubDate>
+		<itunes:episode>42</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:30:34</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[On reçoit Frédéric Loesch, photographe hobbyiste, pour découvrir quelles sont ses habitudes en matière de gestion des photos. Les logiciels qu'il utilise, les routines qu'il a mis en place... On fait le grand chelem !]]></itunes:subtitle>
+		<description><![CDATA[On reçoit Frédéric Loesch, photographe hobbyiste, pour découvrir quelles sont ses habitudes en matière de gestion des photos. Les logiciels qu'il utilise, les routines qu'il a mis en place... On fait le grand chelem !]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/06/pexels-photo-368893.jpeg" /><br /><p style="text-align: justify;">Aujourd'hui, Tech Two reçoit <strong>Frédéric Loesch</strong> (<a href="https://www.facebook.com/FredLoeschPhotos">Facebook</a>, <a href="https://www.instagram.com/fredloeschphotography">Instagram</a>, <a href="https://500px.com/fredloeschphotography">500px</a>), photographe hobbyiste, pour découvrir quelles sont ses habitudes en matière de <strong>gestion des photos</strong>. Les logiciels qu'il utilise, les routines qu'il a mis en place... On fait le grand chelem !</p><p style="text-align: justify;">Dans l'actualité, Franck et Yann évoquent le <em>Computex 2019</em>, l'application iOS nommée <em>Timery</em>, et le désamour consommé de Franck pour <em>Google Chrome</em>.</p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li style="text-align: justify;"><a href="http://timeryapp.com">Timery (iOS)</a></li><li><a href="https://info.ecosia.org/mobile">Ecosia</a></li><li><a href="https://rawtherapee.com">RawTherapee</a></li><li><a href="https://www.darktable.org/">darktable</a></li><li><a href="https://www.pixelmator.com/photo/">Pixelmator Photo</a></li><li><a href="http://podcastorama.lepodcast.fr">Podcastorama</a></li><li><a href="https://twitter.com/deltakosh/status/1131211645831614475">Le tweet de David Catuhe…</a></li><li><a href="https://twitter.com/ChrisCamicas/status/1131212899920306176">… et la réponse de Christophe Camicas.</a></li><li><a href="https://www.taklope.com/box-mod/1729-istick-40w-tc-eleaf.html?search_query=istick&amp;results=34">ISTICK 40W TC - ELEAF</a></li><li><a href="https://www.taklope.com/innokin/8111-zlide.html">ZLIDE - INNOKIN</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Microsoft Build & Google I/O, cuvée 2019]]></title>
+		<link>https://www.blueprint.pm/tech-two-41-microsoft-build-google-i-o-cuvee-2019</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT41.mp3" type="audio/mpeg" />
+		<guid>https://shows.blueprint.pm/tech-two/TT41.mp3</guid>
+		<pubDate>Mon, 20 May 2019 11:39:00 +0100</pubDate>
+		<itunes:episode>41</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:49:52</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann font le point sur la Microsoft Build 2019 et la Google I/O 2019, à leur sauce : en ne retenant — de ces conférences orientées développeurs — que ce qui concerne l'usage de tout un chacun !]]></itunes:subtitle>
+		<description><![CDATA[Franck et Yann font le point sur la Microsoft Build 2019 et la Google I/O 2019, à leur sauce : en ne retenant — de ces conférences orientées développeurs — que ce qui concerne l'usage de tout un chacun !]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/05/gst.jpg" /><br /><p style="text-align: justify;">Quoi de neuf chez Google et Microsoft ? Franck et Yann font le point en résumant la <strong>Microsoft Build 2019</strong> et la <strong>Google I/O 2019</strong> à leur sauce : en ne retenant — de ces conférences orientées développeurs — que ce qui concerne l'usage de tout un chacun !</p><p style="text-align: justify;">Chez <strong>Microsoft</strong>, il s'agit de la reconstruction de leur navigateur web Edge, l'énième démonstration d'HoloLens, et les efforts intriguant du groupe en matière de confort d'usage pour les assistants vocaux.</p><p style="text-align: justify;">Côté <strong>Google</strong>, on s'intéresse aux nouveaux outils pour les sourds et les muets, à un Google Assistant plus pratique à utiliser simultanément aux applications de son téléphone Android, aux nouvelles fonctionnalités d'Android Q, et à un nouveau smartphone au prix plus raisonnable : le<em> Pixel 3A</em>.</p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li</ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li style="text-align: justify;"><a href="https://www.theverge.com/2019/5/7/18535227/microsoft-edge-browser-mac-download-leak-macos">Microsoft’s Edge browser for Mac leaks, available to download early</a></li><li><a href="https://www.androidauthority.com/google-pixel-3a-google-photos-981947/">Google Pixel 3a phones lack free original quality Google Photos backups</a></li><li><a href="https://tasker.joaoapps.com">Tasker, l'application évoquée par l'un-e de nos auditeurs/trices</a></li><li><a href="https://www.topachat.com/pages/configomatic.php?c=u7lEGleeFeoXmgQrJ4A%2BU%2Bo1kvfdog4dLEbYCh8NV4g%3D">La config' de Franck pour Léo</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[L’automation, c'est le développement à portée de tous]]></title>
+		<link>https://www.blueprint.pm/tech-two-40-lautomation-cest-le-developpement-a-portee-de-tous</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT40.mp3" type="audio/mpeg" />
+		<guid>https://shows.blueprint.pm/tech-two/TT40.mp3</guid>
+		<pubDate>Mon, 6 May 2019 10:20:00 +0100</pubDate>
+		<itunes:episode>40</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:28:48</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Écoutez notre dossier sur l'automation, cette technique qui consiste à simplifier des actions complexes sur votre ordinateur, smartphone ou tablette. Au menu : IFTTT, Zapier, Raccourcis & Raccourcis Siri (iOS) et Automator (macOS).]]></itunes:subtitle>
+		<description><![CDATA[Écoutez notre dossier sur l'automation, cette technique qui consiste à simplifier des actions complexes sur votre ordinateur, smartphone ou tablette. Au menu : IFTTT, Zapier, Raccourcis & Raccourcis Siri (iOS) et Automator (macOS).]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/05/adult-artificial-intelligence-bot-1020325.jpg" /><br /><p style="text-align: justify;">Dans un dossier XXL, Yann vous parle de <strong>l'automation</strong>, cette technique qui consiste à <strong>simplifier des actions complexes</strong> sur votre ordinateur, smartphone ou tablette. Il fait le tour d'<strong>IFTTT</strong>, Zapier, l'app <strong>Raccourcis</strong> &amp; les Raccourcis Siri (iOS) et <strong>Automator</strong> (macOS).</p><p style="text-align: justify;">Franck en est resté bouche-bée.</p><p style="text-align: justify;">L'actualité de cet épisode est marquée par, entre autres, le report du Samsung Galaxy Fold et les affaires pas très nettes de Palantir.</p><h3 style="text-align: justify;">Informations complémentaires</h3<p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li style="text-align: justify;"><a href="https://www.blueprint.pm/conference-blueprint-le-samedi-11-mai-2019-a-paris/">Conférence Blueprint, samedi 11 mai à Paris</a></li><li style="text-align: justify;"><a href="https://twitter.com/JoannaStern/status/1120373006067470337">Samsung offically delays Fold. Here's the statement, screencapped on the Fold.</a></li><li style="text-align: justify;"><a href="https://techcrunch.com/2019/05/03/palantirs-software-was-used-for-deportations-documents-show/">Palantir’s software was used for deportations, documents show</a></li><li style="text-align: justify;"><a href="https://marco.org/2019/04/27/overcast-clip-sharing">Clip sharing with Overcast</a></li><li style="text-align: justify;"><a href="https://ifttt.com">IFTTT</a></li><li style="text-align: justify;"><a href="https://zapier.com">Zapier</a></li><li style="text-align: justify;"><a href="https://support.apple.com/fr-ch/HT209055">Raccourcis Siri (iOS)</a></li><li style="text-align: justify;"><a href="https://itunes.apple.com/fr/app/raccourcis/id915249334?mt=8">Raccourcis (iOS)</a></li><li style="text-align: justify;"><a href="https://support.apple.com/fr-ch/guide/automator/welcome/mac">Automator (macOS)</a></li><li style="text-align: justify;"><a href="https://twitter.com/FilmsdeLover/status/1123499727918641153">Le thread de @FilmsdeLover sur la vente de DVD et de Blu-Ray en France</a></li><li style="text-align: justify;"><a href="https://www.pocketcasts.com">Pocket Casts</a></li><li style="text-align: justify;"><a href="https://sketchbook.com">Autodesk Sketchbook</a></li><li style="text-align: justify;"><a href="https://www.microsoft.com/fr-fr/p/fresh-paint/9wzdncrfjb13?activetab=pivot:overviewtab">Fresh Paint</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[iPad mini (2019) et Surface Go]]></title>
+		<link>https://www.blueprint.pm/tech-two-39-ipad-mini-2019-et-surface-go</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT39.mp3" type="audio/mpeg" />
+		<guid>https://shows.blueprint.pm/tech-two/TT39.mp3</guid>
+		<pubDate>Mon, 22 Apr 2019 11:14:00 +0100</pubDate>
+		<itunes:episode>39</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:35:46</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann vous donnent leur opinion complète — cas d'usages à l'appui — sur la Surface Go l'iPad mini (2019) !]]></itunes:subtitle>
+		<description><![CDATA[Franck et Yann vous donnent leur opinion complète — cas d'usages à l'appui — sur la Surface Go l'iPad mini (2019) !]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/04/CapturFiles-22-59-2019_10.59.29.png" /><br /><p style="text-align: justify;">Franck et Yann (se) sont gâtés ! Ils vous donnent leur opinion complète — cas d'usages à l'appui — sur la <strong>Surface Go</strong> et sur l'<strong>iPad mini (2019)</strong>, respectivement. Cette petite tablette et ce petit transformable ont-ils les arguments pour jouer dans la cour des grands ? <small>Okay, cette accroche est un peu facile, mais on fait ce qu'on peut quand on bosse un lundi férié.</small></p><p style="text-align: justify;">Dans l'actualité, ils reviennent sur le business physique de Netflix, le changement de politique de Microsoft quant aux mises-à-jour de Windows 10 (ENFIN !) et l'impotente législation du Royaume-Uni contre les contenus pornographiques.</p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li style="text-align: justify;"><a href="https://www.howtogeek.com/410183/microsoft-abandons-windows-10s-forced-updates/">Microsoft Abandons Windows 10’s Constant Forced Updates</a></li><li><a href="https://arstechnica.com/tech-policy/2019/04/uk-will-use-isp-blacklists-to-keep-kids-away-from-online-porn/">Porn sites must age-verify British users starting July 15</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Créer un réseau et se connecter à internet]]></title>
+		<link>https://www.blueprint.pm/tech-two-38-creer-un-reseau-et-se-connecter-a-internet</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT38.mp3" type="audio/mpeg" />
+		<guid>https://shows.blueprint.pm/tech-two/TT38.mp3</guid>
+		<pubDate>Mon, 8 Apr 2019 12:53:00 +0100</pubDate>
+		<itunes:episode>38</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:24:01</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Comment met-on ses machines en réseau ? Et pourquoi faire ? Quelles sont les bonnes pratiques lorsqu'on déménage et qu'on veut avoir accès à internet ? Pierre Dandumont (Canard PC Hardware) répond à nos questions !]]></itunes:subtitle>
+		<description><![CDATA[Comment met-on ses machines en réseau ? Et pourquoi faire ? Quelles sont les bonnes pratiques lorsqu'on déménage et qu'on veut avoir accès à internet ? Pierre Dandumont (Canard PC Hardware) répond à nos questions !]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/04/cables-close-up-connection-159304-1.jpg" /><br /><p style="text-align: justify;">Petit-es et grand-es, approchez de cet épisode ! Nous y recevons <a href="https://twitter.com/dandumontp">Pierre Dandumont</a> (<a href="https://www.cpchardware.com">Canard PC Hardware</a>, <a href="https://www.journaldulapin.com">Le Journal du Lapin</a>) pour tout nous expliquer concernant <strong>le réseau</strong> et <strong>la connexion à internet</strong>.</p><p style="text-align: justify;"><em>Quelles sont les bonnes pratiques lorsqu'on déménage et qu'on veut avoir accès à internet ? C'est quoi, le 10 Gb/s ? Comment met-on ses machines en réseau ? Et pourquoi faire ? Pourquoi partager ses fichiers en réseau va plus vite que d'utiliser Dropbox ou OneDrive ? C'est quoi un NAS ?</em></p><p style="text-align: justify;">Diable, que de questions ! Heureusement que Pierre est là !</p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li style="text-align: justify;"><a href="https://www.mediamarkt.ch/fr/product/_acer-asp1-a114-32-c4xs-14-n4000-4g-64g-i-w10-1889219.html">ACER ASP1 A114-32-C4XS/14/N4000/4G/64G/I/W10</a></li><li style="text-align: justify;"><a href="https://www.plex.tv">Plex</a></li><li style="text-align: justify;"><a href="https://buyersguide.macrumors.com/#Mac">MacRumors Buyer's Guide</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Google Stadia côté technique, performance et développement]]></title>
+		<link>https://www.blueprint.pm/tech-two-37-google-stadia-cote-technique-performance-et-developpement/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT37.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT37.mp3</guid>
+		<pubDate>Mon, 25 Mar 2019 10:11:00 +0100</pubDate>
+		<itunes:episode>37</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:14:08</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Au centre de cet épisode, les aspects techniques autour de Google Stadia, sa manette, les outils de développements, et une question cruciale : est-ce que ça marchera chez moi ? Avec Loup de La Cartouche !]]></itunes:subtitle>
+		<description><![CDATA[Au centre de cet épisode, les aspects techniques autour de Google Stadia, sa manette, les outils de développements, et une question cruciale : est-ce que ça marchera chez moi ? Avec Loup de La Cartouche !]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/03/stadia-tfps.jpg" /><br /><p style="text-align: justify;">Le double cross-over continue : vendredi dernier, Franck était <a href="https://www.blueprint.pm/la-cartouche-40-google-stadia-cote-jeux-et-fonctionnalites-avec-franck/">l'invité de La Cartouche</a> pour parler jeux et des fonctionnalités autour de Google Stadia.</p><p style="text-align: justify;">Aujourd'hui, c'est <a href="https://www.twitter.com/alexleserveur">Loup</a> qui s'invite dans Tech Two ! Au sujet de cet épisode, <strong>les aspects techniques autour de Google Stadia</strong>, sa manette, les outils de développements, et une question cruciale : <strong>est-ce que ça marchera chez moi ?</strong></p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li><a href="https://www.blueprint.pm/la-cartouche-40-google-stadia-cote-jeux-et-fonctionnalites-avec-franck/">La Cartouche #40 : Google Stadia côté jeux et fonctionnalités, avec Franck</a></li><li><a href="https://www.theverge.com/2019/3/19/18272636/patreon-service-tiers-lite-pro-premium-jack-conte-platform-sustainable">Patreon launches Pro and Premium tiers to compete with Facebook and YouTube</a></li><li><a href="https://www.lesnumeriques.com/casque-audio/sony-mdr-1000x-p34767/test.html">Les Numériques : TEST / Sony MDR-1000X : un casque nomade complet, confortable et chaleureux</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Comment streamer ses jeux ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-36-comment-streamer-ses-jeux/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT36.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT36.mp3</guid>
+		<pubDate>Mon, 11 Mar 2019 14:00:00 +0100</pubDate>
+		<itunes:episode>36</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:52:36</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[L'épineuse question du streaming de jeu vidéo, traitée avec Valentin Lormeau (Yamato), de Gozulting.]]></itunes:subtitle>
+		<description><![CDATA[L'épineuse question du streaming de jeu vidéo, traitée avec Valentin Lormeau (Yamato), de Gozulting.]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/03/photo-1534450094358-51abce6b6327.jpeg" /><br /><p style="text-align: justify;">Franck et Yann reçoivent à nouveau Valentin (Yamato), cette fois-ci pour aborder <strong>l'épineuse question du streaming de jeu vidéo</strong>.</p><p style="text-align: justify;">Quel matériel utiliser ? Quels logiciels préférer ? OBS, XSplit, un autre ? Sur quelle plateforme streamer ? YouTube, Twitch ? Quelles sont les bonnes habitudes ! Franck et Valentin vous disent tout !</p><p style="text-align: justify;">Yann, lui, ajoute un ou deux trucs ici et là, mais a préféré laisser faire les experts.</p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li><a href="https://www.gozulting.com">Gozulting</a></li><li><a href="https://twitter.com/V_Lormeau">@V_Lormeau</a></li><li><a href="https://www.blueprint.pm/tech-two-17-claviers-et-souris-comment-choisir/">Le premier épisode de Valentin : Tech Two #17 : Claviers et souris, comment choisir ?</a></li><li><a href="https://support.google.com/accounts/answer/9231049?p=web_notification_alternatives&amp;visit_id=636873206801110674-3065683760&amp;rd=1">Google : Gérer vos notifications</a></li><li><a href="https://www.macstories.net/news/castro-launches-curated-podcast-collections-and-instant-search-to-improve-discovery/">Castro Launches Curated Podcast Collections and Instant Search to Improve Discovery</a></li><li><a href="https://www.tomshardware.com/reviews/htc-vive-wireless-adapter,5857.html">HTC Vive Wireless Adapter Review: No Tether, No AMD</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Samsung Galaxy Unpacked 2019]]></title>
+		<link>https://www.blueprint.pm/tech-two-35-samsung-galaxy-unpacked-2019/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT35.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT35.mp3</guid>
+		<pubDate>Mon, 25 Feb 2019 10:21:00 +0100</pubDate>
+		<itunes:episode>35</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:50:58</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Bigre ! Voilà que Franck et Yann parlent de Samsung — une première, pour tout un dossier de Tech Two — à l'occasion du Samsung Galaxy Unpacked 2019. À quoi les nouvelles fonctionnalités, les caractéristiques de ces nouveaux appareils vont-ils pouvoir servir ?]]></itunes:subtitle>
+		<description><![CDATA[Bigre ! Voilà que Franck et Yann parlent de Samsung — une première, pour tout un dossier de Tech Two — à l'occasion du Samsung Galaxy Unpacked 2019. À quoi les nouvelles fonctionnalités, les caractéristiques de ces nouveaux appareils vont-ils pouvoir servir ?]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/02/galaxy-fold-share-image.jpg" /><br /><p style="text-align: justify;">Bigre ! Voilà que Franck et Yann parlent de Samsung — une première, pour tout un dossier de Tech Two — à l'occasion du <strong>Samsung Galaxy Unpacked 2019</strong>.</p><p style="text-align: justify;">En gros, vos deux animateurs préférés (« <em>J'écris ce que je veux. » — Yann</em>) font le point sur les annonces de Samsung (S10, S10 +, S10e, Galaxy Fold, les montres et bracelets, les écouteurs Galaxy Buds) en se demandant : <strong>à quoi les nouvelles fonctionnalités, les caractéristiques de ces nouveaux appareils vont-ils pouvoir servir ?</strong></p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li style="text-align: justify;"><a href="https://www.numerama.com/politique/464904-que-faire-si-vous-etes-victime-de-revenge-porn-ou-de-chantage-aux-photos-denudees.html">Que faire si vous êtes victime de revenge porn ou de chantage aux photos dénudées ?</a></li><li style="text-align: justify;"><a href="https://www.gamersnexus.net">Gamers Nexus</a></li><li style="text-align: justify;"><a href="https://www.youtube.com/user/Jayztwocents">JayzTwoCents</a></li><li style="text-align: justify;"><a href="https://www.youtube.com/user/der8auer">der8auer</a></li><li style="text-align: justify;"><a href="https://www.youtube.com/user/LinusTechTips">LinusTechTips</a></li><li style="text-align: justify;"><a href="https://www.cpchardware.com">Canard PC Hardware</a></li><li style="text-align: justify;"><a href="https://www.anandtech.com">AnandTech</a></li><li style="text-align: justify;"><a href="https://www.tomshardware.fr">Tom's Hardware (France)</a></li><li style="text-align: justify;"><a href="https://www.tomshardware.com">Tom's Hardware (US)</a></li><li style="text-align: justify;"><a href="https://fr.ifixit.com/">iFixit</a></li><li style="text-align: justify;"><a href="https://arstechnica.com/reviews/">ArsTechnica (pour les reviews)</a></li><li style="text-align: justify;"><a href="https://www.macstories.net">MacStories</a></li><li style="text-align: justify;"><a href="http://atp.fm">Accidental Tech Podcast</a></li><li style="text-align: justify;"><a href="https://www.macintosh.fm">Welcome to Macintosh</a></li><li style="text-align: justify;"><a href="https://www.theverge.com/the-vergecast">The Vergecast</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[La machine indispensable]]></title>
+		<link>https://www.blueprint.pm/tech-two-34-la-machine-indispensable/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT34.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT34.mp3</guid>
+		<pubDate>Mon, 11 Feb 2019 18:17:00 +0100</pubDate>
+		<itunes:episode>34</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:15:46</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[L’appareil que Franck et Yann sauveraient des eaux ou des flammes : s’agit-il du smartphone, de la tablette, de l’ordinateur de bureau, ou encore de l’ordinateur portable ?]]></itunes:subtitle>
+		<description><![CDATA[L’appareil que Franck et Yann sauveraient des eaux ou des flammes : s’agit-il du smartphone, de la tablette, de l’ordinateur de bureau, ou encore de l’ordinateur portable ?]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/01/battery-black-background-cellphone-719399.jpg" /><br /><p style="text-align: justify;">Et si il ne devait en rester qu’un ? Franck et Yann répondent à cette question en sélectionnant<strong> l’appareil qu’ils sauveraient des eaux ou des flammes</strong>. S’agit-il du smartphone, de la tablette, de l’ordinateur de bureau, ou encore de l’ordinateur portable ?</p><p style="text-align: justify;">La réponse est dans cet épisode, et nourrit une plus large réflexion sur notre usage de<strong> plusieurs types de machines</strong>. Est-ce bien<strong> raisonnable d’en avoir autant ? </strong>Quelle est leur raison d’être ?</p><h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li><a href="https://www.gamersnexus.net/hwreviews/3437-amd-radeon-vii-review-not-ready-for-launch">AMD Radeon VII</a></li><li><a href="https://pitchfork.com/news/spotify-acquires-podcast-companies-gimlet-and-anchor/?verso=true">Spotify Acquires Podcast Companies Gimlet and Anchor</a></li><li><a href="https://gizmodo.com/i-cut-google-out-of-my-life-it-screwed-up-everything-1830565500">I Cut Google Out Of My Life. It Screwed Up Everything</a></li><li><a href="https://twitter.com/Shitounet/status/1092894996053835776">Shishi : « Dites @TechTwoBP, ça vous parle ça ? »</a></li><li><a href="https://www.sandisk.fr/home/mp3-players">SanDisk Clip</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Comment prendre soin de ses batteries ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-33-comment-prendre-soin-de-ses-batteries/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT33.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT33.mp3</guid>
+		<pubDate>Mon, 28 Jan 2019 11:03:00 +0100</pubDate>
+		<itunes:episode>33</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>2:23:35</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Les batteries : comment fonctionnent-elles (en gros) ? Comment bien en prendre soin ? Franck et Yann en discutent au cours de cet épisode !]]></itunes:subtitle>
+		<description><![CDATA[Les batteries : comment fonctionnent-elles (en gros) ? Comment bien en prendre soin ? Franck et Yann en discutent au cours de cet épisode !]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/01/battery-black-background-cellphone-719399.jpg" /><br /><strong>Les batteries</strong> sont indispensables au bon fonctionnement de nos ordinateurs portables, de nos smartphones et de nos consoles portables. <strong>Comment fonctionnent-elles <em>(en gros)</em> ? Comment bien en prendre soin ?</strong> Franck répond aux questions de Yann à ce sujet !<br /><br />Ensuite, Yann vous donne son avis sur deux applications : <strong>Agenda</strong> et <strong>VoteInfo</strong> ! La première permet d'associer prise de notes et évènements de calendrier. La deuxième permet de s'informer sur les votations en Suisse. L'occasion de les découvrir !<br /><br />Dans l'actualité, on vous parle pêle-mêle de la GTX Series 16X0 de NVidia, du retour des Smart Battery Cases chez Apple, des Ryzen 3000 et des soucis d'internet brimant le pauvre Yann.<br /><br />Quelle vie, les ami-e-s.<h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li><a href="https://fr.ulule.com/magoyond-kryptshow/">Soutenez MAGOYOND et leur prochain album Kryptshow</a></li><li><a href="https://512pixels.net/2019/01/battery-cases-are-back/">Apple Launches Battery Cases for iPhone XS, XS Max and XR</a></li><li><a href="https://www.youtube.com/user/rossmanngroup/videos">Louis Rossmann</a></li><li><a href="https://agenda.com">Agenda</a></li><li>VoteInfo (<a href="https://itunes.apple.com/fr/app/voteinfo/id1434819062?l=fr&amp;mt=8">iOS</a>, <a href="https://play.google.com/store/apps/details?id=ch.bk.voteinfo&amp;hl=fr">Android</a>)</li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[CES 2019]]></title>
+		<link>https://www.blueprint.pm/tech-two-32-ces-2019/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT32.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT32.mp3</guid>
+		<pubDate>Mon, 14 Jan 2019 10:21:00 +0100</pubDate>
+		<itunes:episode>32</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:24:14</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann reviennent sur les nouveautés présentées au CES 2019 qui les ont marqués : télévisions, ordinateurs portables, services... certains pourront changer les usages, au travail comme à la maison.]]></itunes:subtitle>
+		<description><![CDATA[Franck et Yann reviennent sur les nouveautés présentées au CES 2019 qui les ont marqués : télévisions, ordinateurs portables, services... certains pourront changer les usages, au travail comme à la maison.]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2019/01/architecture-building-business-264512.jpg" /><br /><p style="text-align: justify;">Franck et Yann reviennent sur <strong>les nouveautés présentées au CES 2019 qui les ont marqués</strong> : télévisions, ordinateurs portables, services... certains pourront changer les usages, au travail comme à la maison.</p><br />Dans l'actualité, ils reviennent sur Nvidia et le freesync, la faille de sécurité dans la version Android de Skype, l'opération <em>1Password for Democracy</em>. Ah, et Franck donne un premier avis sur les <strong>Surface Headphones</strong>, le casque sans-fil de Microsoft.<h3 style="text-align: justify;">Informations complémentaires</h3><p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p><ul style="text-align: justify;"><li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li><li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li></ul><p style="text-align: justify;"><strong>Liens et infos :</strong></p><ul><li><a href="https://www.blueprint.pm/la-cartouche-flash-bungie-quitte-activision/">La Cartouche #flash : Bungie quitte Activision</a></li><li style="text-align: justify;"><a href="https://www.theregister.co.uk/2019/01/03/android_skype_app_unlock/">Can't unlock an Android phone? No problem, just take a Skype call: App allows passcode bypass</a></li><li><a href="https://1password.com/for-democracy/">1Password for Democracy</a></li><li><a href="https://www.theverge.com/2019/1/5/18169621/ces-2018-best-gadgets-what-happened-vaporware-rollable-tv-razer-linda-bfgd-aibo-aflac-fingernail">The Best Tech of CES 2018: What Happened Next</a></li><li><a href="https://www.youtube.com/watch?v=J-RXqNafscs">Alienware Area 51M</a></li><li><a href="https://www.youtube.com/watch?v=olef-6d1bu0">Asus ROG Mothership</a></li><li><a href="https://www.theverge.com/2019/1/6/18170797/samsung-2019-tvs-itunes-support-airplay-2">Apple is putting iTunes ['s TV and movie buying and rating service] on Samsung TVs</a></li><li><a href="https://twitter.com/reckless/status/1082447111629680641">Nilay Patel : « That's all of the major TV makers doing Apple stuff. Vizio, LG, and Sony are doing AirPlay 2 and supporting HomeKit; Samsung is doing AirPlay 2 and getting an iTunes app that integrates with Bixby but no HomeKit. Weird split. »</a></li><li><a href="https://displaysolutions.samsung.com/monitor/high-resolution/space-monitor">Samsung Space Monitor</a></li><li><a href="http://www.lexar.com/lexar-announces-1tb-633x-sdxc-uhs-i-card-the-behemoth-of-storage-capacity/">Lexar Announces 1TB 633x SDXC™ UHS-I card</a></li><li><a href="https://www.theverge.com/2019/1/8/18174029/google-assistant-auto-punctuation-announced-ces-2019">Google Assistant is adding an auto-punctuation feature for messages</a></li><li><a href="https://www.youtube.com/watch?v=ps0Dn5l88Pg">LG Neo Art</a></li><li><a href="https://www.blueprint.pm/tech-two-14-lergonomie-des-systemes-dexploitation/">Tech Two #14 : L’ergonomie des systèmes d’exploitation</a></li><li><a href="https://help.apple.com/itc/podcasts_connect/?lang=fr#/itc9267a2f12">Apple : Podcast Connect Help</a></li><li><a href="https://forum.canardpc.com">Forum Canard PC</a></li><li><a href="https://forum.hardware.fr">Forum Hardware.fr</a></li><li><a href="https://forum.geekzone.fr">Forum Geekzone</a></li></ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Toutes vos opinions à propos du podcast sont erronées]]></title>
+		<link>https://www.blueprint.pm/tech-two-31-toutes-vos-opinions-a-propos-du-podcast-sont-erronees/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT31.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT31.mp3</guid>
+		<pubDate>Mon, 31 Dec 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>31</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:25:47</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Bonne année ! Pour fêter le passage imminent à l'an 2019, Yann et Franck vous offrent un épisode assez spécial : ils décortiquent les mauvaises idées et les opinions erronées au sujet du podcast... selon eux.]]></itunes:subtitle>
+		<description><![CDATA[Bonne année ! Pour fêter le passage imminent à l'an 2019, Yann et Franck vous offrent un épisode assez spécial : ils décortiquent les mauvaises idées et les opinions erronées au sujet du podcast... selon eux.]]></description>
+		<content:encoded><![CDATA[<img src="https://www.blueprint.pm/wp-content/uploads/2018/12/pexels-photo-1698482.jpeg" /><br />Bonne année ! Pour fêter le passage imminent à l'an 2019, Yann et Franck vous offrent un épisode assez spécial : ils décortiquent <strong>les mauvaises idées et les opinions erronées au sujet du podcast... selon eux.</strong> <h3 style="text-align: justify;">Au programme</h3> <ul>   <li>Utiliser SoundCloud est une mauvaise idée</li>   <li>Vous faire héberger ailleurs est probablement une mauvaise idée</li>   <li>Utiliser Feedburner est une très mauvaise idée</li>   <li>Pousser pour des statistiques d'écoute hyper-précise est une mauvaise idée (et ne respecte pas la vie privée de vos auditeurs)</li>   <li>Insérer des publicités (ou des rubriques) de manière dynamique est une mauvaise idée</li>   <li>Remote Audio Data (RAD, poussé par NPR) est une abomination</li>   <li>Les enceintes connectées ne vont pas révolutionner l'écoute des podcasts</li>   <li>Les apps et services d'agrégations / découvertes sont des initiatives qui ne servent que ceux qui les gèrent</li>   <li>Rendre votre podcast "plus accessible au grand public" en le bourrant de "coming next" et de "previously" est une incompréhension totale du média podcast</li>   <li>Recycler les vieilles recettes d'autres médias est par défaut une mauvaise idée</li>   <li>Chapitrer ses podcasts pour ses auditeurs (et pas pour ses annonceurs), c'est chouette —<em> on le fait ici !</em></li> </ul> <h3 style="text-align: justify;">Informations complémentaires</h3> <p style="text-align: justify;"><strong>Envoyez-nous vos questions :</strong></p>  <ul style="text-align: justify;">   <li style="text-align: left;">Sur Twitter : @<a href="http://twitter.com/techtwobp">TechTwoBP</a></li>   <li style="text-align: left;">Par e-mail : <a href="mailto:techtwo@blueprint.pm">techtwo@blueprint.pm</a></li> </ul>]]></content:encoded>
+	</item>
+	<item>
+		<title><![CDATA[Virus, malware : la base pour se protéger]]></title>
+		<link>https://www.blueprint.pm/tech-two-30-virus-malware-la-base-pour-se-proteger/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT30.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT30.mp3</guid>
+		<pubDate>Mon, 24 Dec 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>30</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:25:52</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann (mais surtout Franck) vous donnent les bons conseils de protection et de désinfection contre les virus et les malwares !]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Au moment de passer les fêtes en famille, vous serez peut-être investi de la mission de réparer une machine qui s'est fait infecter au cours de l'année. Franck et Yann (mais surtout Franck) vous donnent les bons conseils de protection et de désinfection contre les virus et les malwares !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Le Noël 2018 de la technologie]]></title>
+		<link>https://www.blueprint.pm/tech-two-29-le-noel-2018-de-la-technologie/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT29.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT29.mp3</guid>
+		<pubDate>Mon, 10 Dec 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>29</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:26:51</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann vous proposent une sélection de plusieurs appareils, applications, et services pour bien dépenser votre argent (ou celui d'un être cher) durant les fêtes !]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Pour cet avant-dernier épisode de 2018, Franck et Yann vous proposent une sélection de plusieurs appareils, applications, et services pour bien dépenser votre argent (ou celui d'un être cher) durant les fêtes ! À l'occasion de l'actualité, Franck parle de son nouveau clavier et Yann parle des universités suisses. Ils sont donc très très #OnBrand, si vous voulez notre avis.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Travailler le son : outils et techniques]]></title>
+		<link>https://www.blueprint.pm/tech-two-28-travailler-le-son-outils-et-techniques/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT28.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT28.mp3</guid>
+		<pubDate>Mon, 26 Nov 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>28</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>2:00:32</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Quels programmes faut-il pour travailler avec du son ? Quelles sont les bonnes habitudes à prendre dès le premier jour ? Quels concepts faut-il comprendre ? Accompagnés de leur ami Aspic, Yann et Franck explorent le travail du son !]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Quels programmes faut-il pour travailler avec du son ? Quelles sont les bonnes habitudes à prendre dès le premier jour ? Quels concepts faut-il comprendre ? Accompagnés de leur ami Aspic, Yann et Franck explorent le travail du son ! À l'écoute de cet épisode, vous vous familiariserez avec les différents outils, le jargon (fréquence d'échantillonnage, bitrate, écrêtement…), et de bons réflexes. Que vous soyez intéressé(e) par la musique, le podcast, ou par le tripatouillage... cet épisode est pour vous ! Dans l'actualité, la bande de Tech Two dira deux mots du fameux « article 13 » contre lequel YouTube lutte avec des moyens... discutables, discutera du nouveau PC de Franck, et écoutera Yann pousser deux coups de gueule.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Nos utilitaires préférés]]></title>
+		<link>https://www.blueprint.pm/tech-two-27-nos-utilitaires-preferes/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT27.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT27.mp3</guid>
+		<pubDate>Mon, 12 Nov 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>27</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:29:31</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann font le point sur leurs utilitaires préférés. Bref, une sélection de petits programmes qui s'avèrent bien pratique.]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Plutôt que de creuser un gros thème sous l'angle de l'usage technologique, Franck et Yann ont choisi de causer d'un sujet plus transversal. Pour ce premier épisode « sans gros sujet » : leurs utilitaires préférés. Bref, une sélection de petits programmes qui s'avèrent bien pratique.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Le time tracking, comment et pourquoi compter son temps ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-26-le-time-tracking-comment-et-pourquoi-compter-son-temps/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT26.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT26.mp3</guid>
+		<pubDate>Mon, 29 Oct 2018 09:00:00 +0200</pubDate>
+		<itunes:episode>26</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:16:42</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Que ce soit pour facturer un client, combattre la procrastination ou éviter le burn-out, le time tracking pourrait bien vous être très utile. Franck et Yann vous expliquent pourquoi et comment ils comptent leur temps. Découvrez leurs outils, leurs astuces... et même leur philosophie vis-à-vis du temps de travail ! Être productif, oui. Se rendre malade en travaillant, non.]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Que ce soit pour facturer un client, combattre la procrastination ou éviter le burn-out, le time tracking pourrait bien vous être très utile. Franck et Yann vous expliquent pourquoi et comment ils comptent leur temps. Découvrez leurs outils, leurs astuces... et même leur philosophie vis-à-vis du temps de travail ! Être productif, oui. Se rendre malade en travaillant, non.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Made By Google 2018 & Microsoft October Event]]></title>
+		<link>https://www.blueprint.pm/tech-two-25-made-by-google-2018-microsoft-october-event/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT25.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT25.mp3</guid>
+		<pubDate>Mon, 15 Oct 2018 10:00:00 +0200</pubDate>
+		<itunes:episode>25</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:41:43</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Côté Google, on discute du Pixel 3 et Pixel 3 XL, du Google Home Hub, et du Pixel Slate. Chez Microsoft, on évoque la Surface Studio 2, Surface Pro 6, Surface Laptop 2, et Surface Headphones !]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Vous voulez de nouvelles machines ? Ça tombe bien, Microsoft et Google en ont annoncé plein ! Franck et Yann trient le bon grain de l'ivraie avec une question en tête : ces appareils, c'est pour faire quoi ? Côté Google, on discute du Pixel 3 et Pixel 3 XL, du Google Home Hub, et du Pixel Slate. Chez Microsoft, on évoque la Surface Studio 2, la Surface Pro 6, le Surface Laptop 2, et les Surface Headphones !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Gérer ses emails]]></title>
+		<link>https://www.blueprint.pm/tech-two-24-gerer-ses-emails/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT24.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT24.mp3</guid>
+		<pubDate>Mon, 1 Oct 2018 10:00:00 +0200</pubDate>
+		<itunes:episode>24</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>50:02</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann s'intéressent aujourd'hui au calvaire qu'est la gestion d'une ou plusieurs adresses emails. Ils vous partagent leurs conseils, leurs petites hontes et les services qu'ils utilisent pour se faciliter la vie.]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Si vous être en mesure de cette ligne, c'est que vous en avez probablement au moins une... Franck et Yann s'intéressent aujourd'hui au calvaire qu'est la gestion d'une ou plusieurs adresses emails. Ils vous partagent leurs conseils, leurs petites hontes et les services qu'ils utilisent pour se faciliter la vie.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Keynote Apple, septembre 2018]]></title>
+		<link>https://www.blueprint.pm/tech-two-23-keynote-apple-septembre-2018/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT23.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT23.mp3</guid>
+		<pubDate>Mon, 17 Sep 2018 10:02:00 +0200</pubDate>
+		<itunes:episode>23</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:22:14</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[iPhone XR, iPhone XS (et XS Max), Apple Watch Series 4 : Tim Cook et son équipe ont mis deux heures à les présenter. Yann et Franck commentent ces annonces en usant leur… esprit critique !]]></itunes:subtitle>
+		<itunes:summary><![CDATA[iPhone XR, iPhone XS (et XS Max), Apple Watch Series 4… Tim Cook et son équipe ont mis deux heures à les présenter. Yann et Franck reviennent sur ces annonces en répondant aux questions suivantes : qu’apportent ces nouveaux produits aux usages smartphones et montre connectée ? Et, si vous disposez des biftons, quel est l’achat le plus logique que vous pouvez faire ? L’actualité n’est pas en reste : Franck a un nouveau siège de bureau (son séant l’en remercie chaque jour), le parlement européen vote une directive mal conçue et Microsoft veut vraiment vous faire utiliser son navigateur « Edge ».]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Travailler en équipe]]></title>
+		<link>https://www.blueprint.pm/tech-two-22-travailler-en-equipe/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT22.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT22.mp3</guid>
+		<pubDate>Mon, 3 Sep 2018 10:30:00 +0200</pubDate>
+		<itunes:episode>22</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:51:02</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Travailler en équipe, oui, mais comment ? Avec quels outils pour communiquer à plusieurs, se coordonner ? Et pour partager une boite e-mail ? Franck et Yann vous donnent leurs réponses !]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Travailler en équipe, oui, mais comment ? Avec quels outils pour communiquer à plusieurs, se coordonner ? Quels services pour créer des documents en simultané ? Et pour gérer un projet ? Et pour partager une boite e-mail ? Franck et Yann vous donnent leurs réponses !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Data on a diet : vivre avec peu de forfait ou d'espace de stockage]]></title>
+		<link>https://www.blueprint.pm/tech-two-21-data-on-a-diet-vivre-avec-peu-de-forfait-ou-despace-de-stockage/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT21.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT21.mp3</guid>
+		<pubDate>Mon, 25 Jun 2018 09:00:00 +0200</pubDate>
+		<itunes:episode>21</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:37:39</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Comment faire quand l'espace de stockage vient à manquer ? Comment vivre avec un petit forfait de données ? Les réponses sont dans cet épisode !]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Comment faire quand l'espace de stockage vient à manquer ? Comment vivre avec un petit forfait de données ? Pour ce dernier épisode de la saison, Yann et Franck vous proposent un grand guide de survie pour les petits budgets !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[WWDC 2018]]></title>
+		<link>https://www.blueprint.pm/tech-two-20-wwdc-2018/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT20.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT20.mp3</guid>
+		<pubDate>Mon, 11 Jun 2018 09:00:00 +0200</pubDate>
+		<itunes:episode>20</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:59:11</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Nous avons invité Pierre Dandumont (de Canard PC Hardware) pour expliquer et commenter avec nous les différentes annonces de la WWDC 2018, ce qu'elles signifient pour les utilisateurs d'iPhone & iPad (iOS 12), Mac (macOS Mojave), Apple Watch (watchOS 5) et Apple TV (tvOS 12).]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Le 4 juin, Apple a organisé la WWDC (World Wide Developer Conference) pour présenter ses 4 nouveaux systèmes d’exploitation : iOS 12, macOS Mojave, watchOS 5 et tvOS 12. Nous avons invité Pierre Dandumont (Canard PC Hardware, Le Journal du Lapin) pour expliquer et commenter avec nous ces différentes annonces de la WWDC 2018, ce qu’elles signifient pour les utilisateurs d’iPhone, iPad, Mac, Apple Watch et Apple TV.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Bien protéger sa machine]]></title>
+		<link>https://www.blueprint.pm/tech-two-19-bien-proteger-sa-machine/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT19.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT19.mp3</guid>
+		<pubDate>Mon, 28 May 2018 09:00:00 +0200</pubDate>
+		<itunes:episode>19</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:24:38</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Comment bien protéger votre machine ? Pourquoi installer un anti-virus ou un anti-malware ? Lequel ? Sur quelles machines ? Et dans quels cas vaut-il mieux ne pas en installer ? Pourquoi désactiver la reconnaissance des empruntes digitales au moment de traverser certaines frontières ? Que vous soyez sous Windows, macOS, Android ou iOS, cet épisode vous éclairera !]]></itunes:subtitle>
+		<itunes:summary><![CDATA[Comment bien protéger votre machine ? Pourquoi installer un anti-virus ou un anti-malware ? Lequel ? Sur quelles machines ? Et dans quels cas vaut-il mieux ne pas en installer ? Pourquoi désactiver la reconnaissance des empruntes digitales au moment de traverser certaines frontières ? Que vous soyez sous Windows, macOS, Android ou iOS, cet épisode vous éclairera !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Google I/O 2018]]></title>
+		<link>https://www.blueprint.pm/tech-two-18-google-i-o-2018/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT18.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT18.mp3</guid>
+		<pubDate>Mon, 14 May 2018 09:00:00 +0200</pubDate>
+		<itunes:episode>18</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>2:09:14</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Que retenir de la Google I/O 2018, la conférence annuelle de Google présentant les nouveautés logicielles pour Android (Android P), l'Assistant Google (Google Duplex) et leurs nombreux autres services (Gmail, Google Photos, etc.) ?]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Que retenir de la Google I/O 2018, la conférence annuelle de Google présentant les nouveautés logicielles pour Android (Android P), l'Assistant Google (Google Duplex) et leurs nombreux autres services (Gmail, Google Photos, etc.) ? Stan (Les Croissants) est notre invité, et avec lui, on explore également les annonces de la Microsoft Build 2018, l'équivalent de la Google I/O chez Microsoft !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Claviers et souris, comment choisir ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-17-claviers-et-souris-comment-choisir/</link> 	
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT17.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT17.mp3</guid>
+		<pubDate>Mon, 30 Apr 2018 09:00:00 +0200</pubDate>
+		<itunes:episode>17</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:31:18</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Quels sont les critères pour bien choisir son clavier et sa souris ? Doit-on forcément se soucier de quelle souris et de quel clavier on se sert ? Dans cet épisode, Yann pose les questions, tandis que Franck et leur invité Valentin Lormeau (alias Yamato) y répondent.]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Quels sont les critères pour bien choisir son clavier et sa souris ? Doit-on forcément se soucier de quelle souris et de quel clavier on se sert ? Dans cet épisode, Yann pose les questions, tandis que Franck et leur invité Valentin Lormeau (alias Yamato) y répondent.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Préparer une présentation]]></title>
+		<link>https://www.blueprint.pm/tech-two-16-preparer-une-presentation/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT16.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT16.mp3</guid>
+		<pubDate>Mon, 16 Apr 2018 09:00:00 +0200</pubDate>
+		<itunes:episode>16</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:39:34</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Tech Two vous plonge dans le monde des présentations, qu'elles soient créées avec PowerPoint, Keynote ou Google Slides !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Sortez les projecteurs, activez les pointeurs laser : Tech Two vous plonge dans le monde des présentations, qu'elles soient créées avec PowerPoint, Keynote ou Google Slides ! Dans cet épisode, Franck et Yann pèsent le pour et le contre de ces différentes applications, vous donnent quelques conseils pour rendre votre présentation plus efficace, et soulignent quelques usages alternatifs que l'on peut trouver à ces programmes...]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[La Surface Pro transforme-t-elle la vie ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-15-la-surface-pro-transforme-t-elle-la-vie/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT15.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT15.mp3</guid>
+		<pubDate>Mon, 2 Apr 2018 09:00:00 +0200</pubDate>
+		<itunes:episode>15</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:48:58</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[La Surface Pro 5 (modèle 2017) passe au crible de Tech Two !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Après un épisode consacré au travail sur iPad – la tablette d'Apple – c'est au tour du transformable de Microsoft, la Surface Pro 5 (modèle 2017), de passer au crible de Tech Two ! Entre points forts et points faibles, Franck et Yann comptent les points tout en illustrant les usages possibles.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Nos premières machines]]></title>
+		<link>https://www.blueprint.pm/tech-two-hs1-nos-premieres-machines/</link>	
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TTHS1.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TTHS1.mp3</guid>
+		<pubDate>Mon, 26 Mar 2018 10:00:00 +0200</pubDate>
+		<itunes:episodeType>bonus</itunes:episodeType>
+		<itunes:duration>29:00</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Quels étaient les premiers ordinateurs de Franck et de Yann ? Ce mini-épisode de Tech Two va aux origines des premiers contacts homme-machines de vos animateurs favoris.]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Quels étaient les premiers ordinateurs de Franck et de Yann ? Ce mini-épisode de Tech Two va aux origines des premiers contacts homme-machines de vos animateurs favoris.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[L'ergonomie des systèmes d'exploitation]]></title>
+		<link>https://www.blueprint.pm/tech-two-14-lergonomie-des-systemes-dexploitation/</link>
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT14.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT14.mp3</guid>
+		<pubDate>Mon, 12 Mar 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>14</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:36:39</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[L'ergonomie des systèmes d'exploitation : pourquoi et comment ranger son bureau, ses barres, ses icônes, son dock, ses applications... qu'on se trouve sous Windows, macOS, iOS, Android ou même watchOS !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Cela fait longtemps que Franck et Yann voulaient faire cet épisode : l'ergonomie des systèmes d'exploitation ! Pourquoi et comment ranger son bureau, ses barres, ses icônes, son dock, ses applications... qu'on se trouve sous Windows, macOS, iOS, Android ou même watchOS ! Chacun a sa petite recette, et cette semaine, ils vous partagent celles qu'ils appliquent.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Travailler sur iPad]]></title>
+		<link>https://www.blueprint.pm/tech-two-13-travailler-sur-ipad/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT13.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT13.mp3</guid>
+		<pubDate>Mon, 26 Feb 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>13</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:43:44</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Travailler sur iPad, c'est possible ? Tech Two vous expose les raisons de s'y mettre, les modèles de tablettes proposées par Apple, les types d'usages possibles, vous donne quelques astuces, et pointent du doigt les défauts inhérents.]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Travailler sur iPad, c’est possible ? Durant une heure, Franck, Yann et leur invité Mathieu exposent les raisons de s’y mettre, comparent les modèles de tablettes proposées par Apple, explorent les types d’usages possibles, donnent quelques astuces, et pointent du doigt les défauts de l’iPad comme outil de productivité. En bref : thèse, antithèse, et synthèse !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Clean install : faire le grand ménage sur sa machine]]></title>
+		<link>https://www.blueprint.pm/tech-two-12-clean-install-faire-le-grand-menage-sur-sa-machine/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT12.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT12.mp3</guid>
+		<pubDate>Mon, 12 Feb 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>12</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:06:30</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Comment faire pour remettre sa machine à zéro ? Qu'il s'agisse d'un PC sous Windows, d'un Mac, d'un téléphone ou d'une tablette, Franck et Yann vous expliquent pourquoi et comment faire le grand ménage : la clean install !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Comment faire pour remettre sa machine à zéro ? Qu'il s'agisse d'un PC sous Windows, d'un Mac, d'un téléphone ou d'une tablette, Franck et Yann vous expliquent pourquoi et comment faire le grand ménage : la clean install !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Gérer sa musique]]></title>
+		<link>https://www.blueprint.pm/tech-two-11-gerer-sa-musique/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT11.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT11.mp3</guid>
+		<pubDate>Mon, 29 Jan 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>11</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:22:04</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann évoquent leur façon d'entreposer leurs fichiers mp3 et FLAC, bien sûr, mais ils parlent aussi de Spotify, Google Play Music, Spotify... et vous donnent quelques astuces !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Après avoir évoqué différents moyens d'écouter des podcasts ainsi que de regarder des séries et des films, Tech Two s'attaque à la gestion de la musique. Franck et Yann évoquent leur façon d'entreposer leurs fichiers mp3 et FLAC, bien sûr, mais ils parlent aussi de Spotify, Google Play Music, Spotify... et vous donnent quelques astuces !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[CES 2018]]></title>
+		<link>https://www.blueprint.pm/tech-two-10-ces-2018/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT10.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT10.mp3</guid>
+		<pubDate>Mon, 15 Jan 2018 09:00:00 +0100</pubDate>
+		<itunes:episode>10</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>58:27</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[L'année commence avec un épisode dédié au CES 2018 ! En bref, Franck et Yann vous parlent des futurs produits ainsi que des prototypes qui leur ont tapé dans l'oeil.]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Qu'on se le dise, l'année commence avec un épisode dédié au CES 2018 ! En bref, Franck et Yann vous parlent des futurs produits ainsi que des prototypes qui leur ont tapé dans l'oeil. Le CES, si vous ne le savez pas, c'est le Consumer Electronic Show – un rendez-vous annuel organisé à Las Vegas, où petits et grands du monde technologique y mettent en avant leurs projets... plus ou moins réussis.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Faut-il mettre-à-jour sa machine ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-9-faut-il-mettre-a-jour-sa-machine/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT9.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT9.mp3</guid>
+		<pubDate>Mon, 25 Dec 2017 09:00:00 +0100</pubDate>
+		<itunes:episode>9</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:29:24</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Joyeux noël ! Franck et Yann répondent à une question que vos proches vous ont probablement déjà posé : faut-il mettre à jour sa machine ? Peut-on faire revenir son téléphone ou son ordinateur à la version précédente du système ? Quelles sont les différences entre Windows, Android, macOS et iOS ?]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Dans cet épisode de Noël, Franck et Yann répondent à une question que vos proches vous ont probablement déjà posé : faut-il mettre à jour sa machine ? Peut-on faire revenir son téléphone ou son ordinateur à la version précédente du système ? Quelles sont les différences entre Windows, Android, macOS et iOS ? En début d'épisode, Franck évoque les précautions à prendre si vous commandez de l'électronique en Asie et Yann explique pourquoi il utilise désormais Bear et Things !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Réseaux sociaux : utiliser Twitter et Facebook sans devenir fou]]></title>
+		<link>https://www.blueprint.pm/tech-two-8-reseaux-sociaux-utiliser-twitter-et-facebook-sans-devenir-fou/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT8.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT8.mp3</guid>
+		<pubDate>Mon, 11 Dec 2017 09:00:00 +0100</pubDate>
+		<itunes:episode>8</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:15:59</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Les réseaux sociaux : comment les utiliser sans devenir fou ? Twitter, Facebook, LinkedIn et Instagram sont passés au crible selon différents types d'usages, mais aussi avec différentes applications disponibles !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Dans cet épisode, Franck et Yann s’attaquent aux réseaux sociaux : comment les utiliser sans devenir fou ? Twitter, Facebook, LinkedIn et Instagram sont passés au crible selon différents types d’usages, mais aussi avec différentes applications disponibles !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[La technologie nomade : nos sacs et ce qu’on y met dedans]]></title>
+		<link>https://www.blueprint.pm/tech-two-7-la-technologie-nomade-nos-sacs-et-ce-quon-y-met-dedans/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT7.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT7.mp3</guid>
+		<pubDate>Mon, 27 Nov 2017 14:50:00 +0100</pubDate>
+		<itunes:episode>7</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:23:56</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Ce lundi, Franck et Yann vous parlent de la technologie nomade : leurs sacs, et surtout ce qu'ils y mettent dedans.]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Ce lundi, Franck et Yann vous parlent de la technologie nomade : leurs sacs, et surtout ce qu'ils y mettent dedans. Sac à dos ou sac en bandoulière ? Laptop ou tablette ? Comment s'assurer de ne pas manquer de batterie ? Ils répondent à toutes ces questions et donnent leurs astuces de baroudeurs !]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Comment écouter des podcasts ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-6-comment-ecouter-des-podcasts/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT6.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT6.mp3</guid>
+		<pubDate>Mon, 13 Nov 2017 10:40:00 +0100</pubDate>
+		<itunes:episode>6</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:29:06</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[L’écoute de podcasts : quelles pratiques, quels services, quelles applications ? Pour en parler, Franck et Yann reçoivent David Catuhe, Principal Program Manager chez Microsoft et développeur de l'application Podcasts (bêta) sur le Windows Store.]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Au centre de cet épisode, un dossier consacré à l’écoute de podcasts : quelles pratiques, quels services, quelles applications ? Pour en parler, Franck et Yann reçoivent David Catuhe, Principal Program Manager chez Microsoft et développeur de l'application Podcasts (beta) sur le Windows Store. Tech Two est le podcast qui vous aide à tirer le meilleur de la technologie, au travail comme à la maison. Un lundi sur deux, sur RadioKawa.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Construire son PC : comment bien choisir son matériel ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-5-construire-son-pc-comment-bien-choisir-son-materiel/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT5.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT5.mp3</guid>
+		<pubDate>Mon, 30 Oct 2017 10:00:00 +0100</pubDate>
+		<itunes:episode>5</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:54:05</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Tous les conseils nécessaires pour bien choisir son hardware lorsqu'on construit un PC : du ventirad à la carte graphique, du processeur au support de stockage... tout y est !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Pour cet épisode, (Yann et) Franck vous donne(nt) tous les conseils nécessaires pour bien choisir son hardware lorsqu'on construit un PC : du ventirad à la carte graphique, du processeur au support de stockage... tout y est ! Tech Two est le podcast qui vous aide à tirer le meilleur de la technologie, au travail comme à la maison. Un lundi sur deux, sur RadioKawa.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Sauvegarder ses données, l’art de la backup]]></title>
+		<link>https://www.blueprint.pm/tech-two-4-sauvegarder-ses-donnees-lart-de-la-backup/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT4.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT4.mp3</guid>
+		<pubDate>Mon, 16 Oct 2017 10:41:00 +0100</pubDate>
+		<itunes:episode>4</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:26:51</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[La sauvegarde de vos données (backup) : comment se préparer au risque d'un disque dur qui lâche ou une machine qui part en fumée ? Un sujet simple en apparence, qui peut très vite se révéler crucial…]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Au menu de cet épisode, un dossier consacré à la sauvegarde de vos données, également connue sous le terme anglais “backup” : comment se préparer au risque d'un disque dur qui lâche ou une machine qui part en fumée ? Un sujet simple en apparence, qui peut très vite se révéler crucial… Tech Two est le podcast qui vous aide à tirer le meilleur de la technologie, au boulot comme à la maison. Un lundi sur deux, sur RadioKawa.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Tâches, calendrier, rappels : comment s'organiser ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-3-taches-calendrier-rappels-comment-sorganiser/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT3.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT3.mp3</guid>
+		<pubDate>Mon, 2 Oct 2017 10:55:00 +0100</pubDate>
+		<itunes:episode>3</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:17:37</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Comment s'organiser, entre to-do lists, calendriers, rappels et autres outils de productivité ? Pour y répondre, Franck et Yann ont invité Julien (MAGOYOND, Naheulband, musicien, graphiste, etc.), un sacré bosseur.]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Au centre de cet épisode, une question simple : comment s'organiser, entre to-do lists, calendriers, rappels et autres outils de productivité ? Pour y répondre, Franck et Yann ont invité Julien, un bosseur qui ne compte pas ses heures. …enfin si, justement, il les compte, ça fait partie de son système ! Tech Two est le podcast qui vous aide à tirer le meilleur de la technologie, au boulot comme à la maison. Un lundi sur deux.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Comment consommer séries et films ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-2-comment-consommer-series-et-films/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT2.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT2.mp3</guid>
+		<pubDate>Mon, 18 Sep 2017 10:36:00 +0100</pubDate>
+		<itunes:episode>2</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:14:57</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann sont de retour pour vous présenter leurs solutions respectives d'outils, d'offres et de techniques pour regarder vos séries et films préférés !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Franck et Yann sont de retour pour vous présenter leurs solutions respectives d'outils, d'offres et de techniques pour regarder vos séries et films préférés ! Dans le respect du droit d'auteur, évidemment. Tech Two est le podcast qui vous aide à tirer le meilleur de la technologie, au boulot comme à la maison. Un lundi sur deux.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Quels outils pour écrire ?]]></title>
+		<link>https://www.blueprint.pm/tech-two-1-quels-outils-pour-ecrire/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT1.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT1.mp3?</guid>
+		<pubDate>Mon, 4 Sep 2017 13:16:00 +0100</pubDate>
+		<itunes:episode>1</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>51:03</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[Franck et Yann font, pour vous, une sélection de logiciels et de services qui vont vous permettre d’écrire plus vite, plus efficacement, et plus calmement. Il n’y a pas que Microsoft Word dans la vie !]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Franck et Yann font, pour vous, une sélection de logiciels et de services qui vont vous permettre d’écrire plus vite, plus efficacement, et plus calmement. Il n’y a pas que Microsoft Word dans la vie ! Tech Two est le podcast qui vous aide à tirer le meilleur de la technologie, au boulot comme à la maison. Un lundi sur deux.]]></itunes:summary>
+	</item>
+	<item>
+		<title><![CDATA[Découvrez Tech Two !]]></title>
+		<link>https://www.blueprint.pm/podcasts/tech-two/</link> 
+		<itunes:author>Blueprint</itunes:author>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/shows.blueprint.pm/tech-two/TT_PromoBP.mp3" type="audio/mpeg" />
+		<guid>http://dl.radiokawa.com/tech-two/TT_PromoBP.mp3</guid>
+		<pubDate>Fri, 14 Sep 2018 02:04:00 +0200</pubDate>
+		<itunes:episode>1</itunes:episode>
+		<itunes:episodeType>trailer</itunes:episodeType>
+		<itunes:duration>0:01:37</itunes:duration>
+		<itunes:image href="https://shows.blueprint.pm/tech-two/TechTwo.jpg" />
+		<itunes:subtitle><![CDATA[La bande-annonce de l'émission.]]></itunes:subtitle>
+		
+		<itunes:summary><![CDATA[Découvrez Tech Two, le podcast qui vous aide à tirer le meilleur de la technologie — au travail comme à la maison !]]></itunes:summary>
+	</item>
+</channel>
+</rss>
