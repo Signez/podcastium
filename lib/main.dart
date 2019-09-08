@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/date_symbol_data_local.dart';
-import 'package:podcastium/ui/screens/HomeScreen.dart';
+import 'package:podcastium/ui/screens/home.dart';
 
 void main() => runApp(PodcastiumApp());
 
@@ -23,7 +23,7 @@ class _PodcastiumAppState extends State<PodcastiumApp> {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Home(title: 'Podcastium'),
+      home: HomeScreen(title: 'Podcastium'),
     );
   }
 }

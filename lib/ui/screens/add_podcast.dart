@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:podcastium/ui/screens/PodcastScreen.dart';
+import 'package:podcastium/ui/screens/podcast.dart';
 
 const String kTechTwoUrl =
     'https://shows.blueprint.pm/tech-two/podcast_tech-two.xml';
