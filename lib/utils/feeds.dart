@@ -5,32 +5,41 @@ import 'package:podcastium/model/episode.dart';
 import 'package:podcastium/model/podcast.dart';
 import 'package:webfeed/webfeed.dart';
 
-Podcast feedParser(Uint8List bytesFeedContent) {
+bool containsXmlEncoding(String podcastFeedHead) {
+  return podcastFeedHead
+      .contains(RegExp(r"<\?xml[^>]+encoding", caseSensitive: false));
+}
+
+String parseXmlCharset(String podcastFeedHead) {
+  var regex = RegExp('<\\?xml[^>]+encoding=(\'|")?([-A-Za-z0-9._]+)',
+      caseSensitive: false);
+  var matches = regex.allMatches(podcastFeedHead);
+
+  for (var match in matches) {
+    return match.group(2);
+  }
+
+  return null;
+}
+
+Podcast feedParser(String feedContent, Uint8List bytesFeedContent) {
   Podcast podcast = Podcast();
 
-  // TODO: Detect encoding here using simple RegExp (for <?xml)
-  var encoding = Encoding.getByName('utf-8');
-  podcast.rawFeedContent = encoding.decode(bytesFeedContent);
+  var firstBytes = bytesFeedContent.sublist(0, 128);
+  var podcastFeedHead = Encoding.getByName('ascii').decode(firstBytes);
 
-  // First, parsing it in a non-business way to get the right encoding
-  /* var xmlFeed = xml.parse(body);
-  var xmlFirstNode = xmlFeed.firstChild;
+  if (containsXmlEncoding(podcastFeedHead)) {
+    var charset = parseXmlCharset(podcastFeedHead) ?? 'utf-8';
+    var encoding = Encoding.getByName(charset);
 
-  if (xmlFirstNode != null &&
-      xmlFirstNode.nodeType == xml.XmlNodeType.PROCESSING &&
-      bytesFeedContent.length > 0) {
-    var matches = RegExp("encoding=\"(.+?)\"").allMatches(xmlFirstNode.text);
-    for (Match match in matches) {
-      var encodingName = match.group(1);
-      var encoding = Encoding.getByName(encodingName);
-
-      if (encoding != null) {
-        podcast.rawFeedContent = encoding.decode(bytesFeedContent);
-      } else {
-        debugPrint("WARN: encoding $encodingName is unknown.");
-      }
+    if (encoding != null) {
+      podcast.rawFeedContent = encoding.decode(bytesFeedContent);
+    } else {
+      podcast.rawFeedContent = feedContent;
     }
-  } */
+  } else {
+    podcast.rawFeedContent = feedContent;
+  }
 
   var feed = RssFeed.parse(podcast.rawFeedContent);
 

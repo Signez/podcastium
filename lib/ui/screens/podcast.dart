@@ -30,7 +30,7 @@ class _PodcastScreenState extends State<PodcastScreen> {
     var response = await http.get(widget.feedUrl);
 
     setState(() {
-      podcast = feedParser(response.bodyBytes);
+      podcast = feedParser(response.body, response.bodyBytes);
     });
   }
 
