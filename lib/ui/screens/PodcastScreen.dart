@@ -36,29 +36,40 @@ class _PodcastScreenState extends State<PodcastScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text(podcast?.title ?? 'Détail d’un podcast'),
-      ),
       body: RefreshIndicator(
         onRefresh: () async {
           return downloadFeed();
         },
-        child: podcast != null
-            ? ListView.builder(
-                physics: const AlwaysScrollableScrollPhysics(),
-                itemBuilder: (BuildContext context, int index) {
+        child: CustomScrollView(slivers: [
+          SliverAppBar(
+            flexibleSpace: FlexibleSpaceBar(
+              title: Text(podcast?.title ?? 'Détail d’un podcast'),
+            ),
+            expandedHeight: 160.0,
+          ),
+          if (podcast != null)
+            SliverList(
+              delegate: SliverChildBuilderDelegate(
+                (BuildContext context, int index) {
                   if (index == 0) {
                     return buildHeader();
-                  } else if (index == 1) {
-                    return buildSubscribeBar();
                   } else {
-                    return PodcastEpisode(
-                        episode: podcast?.episodes[index - 2]);
+                    return buildSubscribeBar();
                   }
                 },
-                itemCount: podcast.episodes.length + 2,
-              )
-            : Center(child: CircularProgressIndicator()),
+                childCount: 2,
+              ),
+            ),
+          if (podcast != null)
+            SliverList(
+              delegate: SliverChildBuilderDelegate(
+                (BuildContext context, int index) {
+                  return PodcastEpisode(episode: podcast.episodes[index]);
+                },
+                childCount: podcast.episodes.length,
+              ),
+            )
+        ]),
       ),
     );
   }
