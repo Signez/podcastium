@@ -3,6 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 import 'package:podcastium/model/episode.dart';
 import 'package:podcastium/model/podcast.dart';
+import 'package:podcastium/ui/layout/cover_app_bar.dart';
 import 'package:podcastium/utils/feeds.dart';
 import 'package:transparent_image/transparent_image.dart';
 
@@ -43,8 +44,12 @@ class _PodcastScreenState extends State<PodcastScreen> {
         },
         child: CustomScrollView(slivers: [
           SliverAppBar(
-            flexibleSpace: FlexibleSpaceBar(
+            pinned: true,
+            flexibleSpace: CoverAppBar(
               title: Text(podcast?.title ?? 'Détail d’un podcast'),
+              overTitle:
+                  Text(podcast?.author?.toUpperCase() ?? "AUTEUR INCONNU"),
+              cover: PodcastCover(imageUrl: podcast?.imageUrl),
             ),
             expandedHeight: 160.0,
           ),
@@ -106,65 +111,65 @@ class PodcastHeader extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.all(10.0),
+      padding: EdgeInsets.all(16.0),
       color: Colors.grey[200],
-      child: Row(
-        children: <Widget>[
-          PodcastCover(imageUrl: podcast?.imageUrl),
-          const SizedBox(width: 10.0),
-          Expanded(
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  podcast?.author ?? "Auteur inconnu",
-                  style: TextStyle(fontWeight: FontWeight.w600),
-                ),
-                const SizedBox(height: 4.0),
-                Text(
-                  podcast?.description ?? "",
-                  style: TextStyle(
-                    fontSize: 14.0,
+      child: SafeArea(
+        top: false,
+        bottom: false,
+        child: Column(
+          children: <Widget>[
+            ConstrainedBox(
+              constraints: BoxConstraints(minHeight: 64.0),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: <Widget>[
+                  const SizedBox(width: 128.0),
+                  const SizedBox(width: 16.0),
+                  Expanded(
+                    child: Text(podcast?.subtitle ??
+                        "Le diffuseur n’a pas fourni de mini-sommaire."),
+                  )
+                ],
+              ),
+            ),
+            Row(
+              children: <Widget>[
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        podcast?.description ?? "",
+                        style: TextStyle(
+                          fontSize: 14.0,
+                        ),
+                      ),
+                    ],
                   ),
                 ),
-                const SizedBox(height: 4.0),
-                if (podcast?.copyright != null && podcast.copyright.isNotEmpty)
-                  Text(
-                    podcast.copyright,
-                    style: TextStyle(
-                      fontWeight: FontWeight.w300,
-                      fontSize: 12.0,
-                    ),
-                  ),
               ],
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
 }
 
-class PodcastCover extends StatefulWidget {
+/* if (podcast?.copyright != null &&
+    podcast.copyright.isNotEmpty)
+  Text(
+    podcast.copyright,
+    style: TextStyle(
+      fontWeight: FontWeight.w300,
+      fontSize: 12.0,
+    ),
+  ),*/
+
+class PodcastCover extends StatelessWidget {
   final String imageUrl;
 
   const PodcastCover({Key key, @required this.imageUrl}) : super(key: key);
-
-  @override
-  _PodcastCoverState createState() => _PodcastCoverState();
-}
-
-class _PodcastCoverState extends State<PodcastCover> {
-  String coverImageUrl;
-
-  @override
-  void initState() {
-    super.initState();
-  }
-
-  Future<void> refreshCoverUrl() async {
-    setState(() {});
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -173,28 +178,37 @@ class _PodcastCoverState extends State<PodcastCover> {
     return Container(
       width: 128.0,
       height: 128.0,
-      child: Material(
-        color: Colors.blue,
+      decoration:
+          BoxDecoration(color: Colors.blue, borderRadius: kRadius, boxShadow: [
+        BoxShadow(
+          color: Color.fromRGBO(59, 79, 98, 0.05),
+          offset: Offset(0.0, 6.0),
+          blurRadius: 12.0,
+        ),
+        BoxShadow(
+          color: Color.fromRGBO(30, 60, 86, 0.2),
+          offset: Offset(0.0, 2.0),
+          blurRadius: 6.0,
+        ),
+      ]),
+      child: InkWell(
         borderRadius: kRadius,
-        child: InkWell(
+        onTap: () {
+          // TODO: Do something on click?
+        },
+        child: ClipRRect(
           borderRadius: kRadius,
-          onTap: () {
-            refreshCoverUrl();
-          },
-          child: ClipRRect(
-            borderRadius: kRadius,
-            child: Stack(
-              children: [
-                Center(
-                  child: Icon(Icons.rss_feed, color: Colors.white, size: 50.0),
-                ),
-                if (widget.imageUrl != null)
-                  FadeInImage.memoryNetwork(
-                    placeholder: kTransparentImage,
-                    image: widget.imageUrl,
-                  )
-              ],
-            ),
+          child: Stack(
+            children: [
+              Center(
+                child: Icon(Icons.rss_feed, color: Colors.white, size: 50.0),
+              ),
+              if (imageUrl != null)
+                FadeInImage.memoryNetwork(
+                  placeholder: kTransparentImage,
+                  image: imageUrl,
+                )
+            ],
           ),
         ),
       ),
@@ -214,22 +228,26 @@ class PodcastEpisode extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: EdgeInsets.all(10.0),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text(
-            episode.title ?? "<Sans titre>",
-            style: TextStyle(
-              fontSize: 15.0,
-              fontWeight: FontWeight.w500,
+      child: SafeArea(
+        top: false,
+        bottom: false,
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              episode.title ?? "<Sans titre>",
+              style: TextStyle(
+                fontSize: 15.0,
+                fontWeight: FontWeight.w500,
+              ),
             ),
-          ),
-          const SizedBox(height: 4.0),
-          if (episode.pubDate != null)
-            Text(kHumanDateFormat.format(episode.pubDate)),
-          const SizedBox(height: 4.0),
-          if (episode.description != null) Text(episode.description),
-        ],
+            const SizedBox(height: 4.0),
+            if (episode.pubDate != null)
+              Text(kHumanDateFormat.format(episode.pubDate)),
+            const SizedBox(height: 4.0),
+            if (episode.description != null) Text(episode.description),
+          ],
+        ),
       ),
     );
   }

@@ -11,6 +11,9 @@ class Podcast {
   /// Description given by the producer, in the feed (<description>).
   String description;
 
+  /// Subtitle given by the producer, in the feed (<itunes:subtitle>).
+  String subtitle;
+
   /// Author name given by the producer, in the feed (<author>).
   String author;
 

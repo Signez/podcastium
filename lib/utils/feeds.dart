@@ -48,6 +48,7 @@ Podcast feedParser(String feedContent, Uint8List bytesFeedContent) {
   podcast.author = feed.itunes?.author ?? feed.author;
   podcast.copyright = feed.copyright;
   podcast.imageUrl = feed.image?.url;
+  podcast.subtitle = feed.itunes?.subtitle;
 
   podcast.episodes = feed.items
       .map(
