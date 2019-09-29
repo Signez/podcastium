@@ -58,6 +58,7 @@ Podcast feedParser(String feedContent, Uint8List bytesFeedContent) {
           guid: item.guid,
           link: item.link,
           pubDate: item.pubDate,
+          subtitle: item.itunes.subtitle,
         ),
       )
       .toList();

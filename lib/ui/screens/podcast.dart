@@ -91,10 +91,22 @@ class PodcastSubscribeBar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Text(
-        widget.feedUrl,
-        style: TextStyle(color: Colors.grey),
+    return Container(
+      padding: EdgeInsets.all(16.0).copyWith(top: 0.0),
+      color: Colors.grey[200],
+      child: Row(
+        children: <Widget>[
+          Expanded(
+            child: Text(
+              widget.feedUrl,
+              style: TextStyle(color: Colors.grey),
+            ),
+          ),
+          RaisedButton(
+            onPressed: () {},
+            child: Text("S’abonner"),
+          )
+        ],
       ),
     );
   }
@@ -191,25 +203,19 @@ class PodcastCover extends StatelessWidget {
           blurRadius: 6.0,
         ),
       ]),
-      child: InkWell(
+      child: ClipRRect(
         borderRadius: kRadius,
-        onTap: () {
-          // TODO: Do something on click?
-        },
-        child: ClipRRect(
-          borderRadius: kRadius,
-          child: Stack(
-            children: [
-              Center(
-                child: Icon(Icons.rss_feed, color: Colors.white, size: 50.0),
-              ),
-              if (imageUrl != null)
-                FadeInImage.memoryNetwork(
-                  placeholder: kTransparentImage,
-                  image: imageUrl,
-                )
-            ],
-          ),
+        child: Stack(
+          children: [
+            Center(
+              child: Icon(Icons.rss_feed, color: Colors.white, size: 50.0),
+            ),
+            if (imageUrl != null)
+              FadeInImage.memoryNetwork(
+                placeholder: kTransparentImage,
+                image: imageUrl,
+              )
+          ],
         ),
       ),
     );
@@ -236,16 +242,35 @@ class PodcastEpisode extends StatelessWidget {
           children: [
             Text(
               episode.title ?? "<Sans titre>",
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
               style: TextStyle(
-                fontSize: 15.0,
-                fontWeight: FontWeight.w500,
+                fontSize: 16.0,
+                fontWeight: FontWeight.w600,
               ),
             ),
-            const SizedBox(height: 4.0),
+            const SizedBox(height: 8.0),
             if (episode.pubDate != null)
-              Text(kHumanDateFormat.format(episode.pubDate)),
-            const SizedBox(height: 4.0),
-            if (episode.description != null) Text(episode.description),
+              Text(
+                kHumanDateFormat.format(episode.pubDate).toUpperCase(),
+                style: TextStyle(
+                  fontSize: 13.0,
+                  fontWeight: FontWeight.w600,
+                  color: Colors.grey[700],
+                ),
+              ),
+            const SizedBox(height: 8.0),
+            if (episode.subtitle != null || episode.description != null)
+              Text(
+                episode.subtitle ?? episode.description,
+                maxLines: 2,
+                overflow: TextOverflow.ellipsis,
+                style: TextStyle(
+                  fontSize: 13.0,
+                  fontWeight: FontWeight.w400,
+                  color: Colors.grey[800],
+                ),
+              ),
           ],
         ),
       ),

@@ -4,7 +4,13 @@ import 'package:intl/intl.dart';
 var kRSSDateFormat = new DateFormat('EEE, dd MMM yyyy HH:mm:ss Z', 'en_US');
 
 class Episode {
-  Episode({this.title, this.link, this.guid, this.description, pubDate}) {
+  Episode(
+      {this.title,
+      this.link,
+      this.guid,
+      this.description,
+      this.subtitle,
+      pubDate}) {
     try {
       this.pubDate = kRSSDateFormat.parse(pubDate ?? "");
     } catch (FormatException) {
@@ -26,4 +32,7 @@ class Episode {
 
   /// Description for this episode (<description>).
   final String description;
+
+  /// Sub-title (short description) for this episode (<itunes:subtitle>).
+  final String subtitle;
 }
